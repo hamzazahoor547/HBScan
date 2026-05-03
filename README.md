@@ -81,4 +81,4 @@ Unauthorized scanning is **illegal**.
 
 ## 👨‍💻 Author
 
-Made by **Hamza Zahoor**
+Made by **Hamza Zahoor** 
