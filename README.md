@@ -81,4 +81,4 @@ Unauthorized scanning is **illegal**.
 
 ## 👨‍💻 Author
 
-Made by **HBScan Team**
+Made by **Hamza Zahoor**
