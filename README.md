@@ -33,13 +33,13 @@
 ## ⚙️ Installation
 
 ```bash
-# Clone karo
-git clone https://github.com/YOURUSERNAME/HBScan.git
+# Clone 
+git clone https://github.com/hamzazahoor547/HBScan.git
 
-# Folder mein jao
+# Enter the folder
 cd HBScan
 
-# Run karo
+# Run the tool
 python3 hbscan.py
 ```
 
@@ -51,7 +51,7 @@ python3 hbscan.py
 python3 hbscan.py
 ```
 
-Menu se option select karo:
+Select options in menu:
 - **[1]** Full Scan
 - **[2]** Ping Sweep
 - **[3]** DNS Lookup
