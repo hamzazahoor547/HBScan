@@ -1,6 +1,6 @@
 # 🦅 HBScan v2.1 — HawkByte Network Scanner
 <p align="center">
-  <img src="screenshots/banner.png" alt="HBScan Banner" width="800"/>
+  <img src="screenshots/Banner.png" alt="HBScan Banner" width="800"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
